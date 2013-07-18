@@ -934,7 +934,7 @@
 	},
 	{
 		"or": "blue",
-		"tr": "bleu
+		"tr": "bleu"
 	},
 	{
 		"or": "blue team",
@@ -1371,3 +1371,5 @@
 		"tr": "Type:"
 	}]
 }
+,
+		
